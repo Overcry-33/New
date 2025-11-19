@@ -3,7 +3,7 @@ using UnityEngine;
 [RequireComponent(typeof(Rigidbody))]
 public class Bullet : MonoBehaviour
 {
-    public float Damage = 10;
+    public float Damage = 20;
 
     [SerializeField]
     private Rigidbody rb;
