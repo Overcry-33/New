@@ -8,7 +8,8 @@ public class Health : MonoBehaviour
     public UnityEvent OnTakeDamage;
     public UnityEvent OnDead;
 
-    private float currentHealth;
+    public float currentHealth;
+    internal float maxHealth;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()

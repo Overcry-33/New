@@ -1,0 +1,184 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 06.04.2017 23:36:02
+
+newmtl Ladrillos
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Mario\3D Max\Entorno modular\texturas\bases\ladrillos.jpg
+	map_Kd C:\Mario\3D Max\Entorno modular\texturas\bases\ladrillos.jpg
+
+newmtl agua
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Mario\3D Max\Entorno modular\texturas\bases\ajuita.jpg
+	map_Kd C:\Mario\3D Max\Entorno modular\texturas\bases\ajuita.jpg
+
+newmtl remates_metal
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Mario\3D Max\Entorno modular\texturas\bases\rematesmetal.jpg
+	map_Kd C:\Mario\3D Max\Entorno modular\texturas\bases\rematesmetal.jpg
+
+newmtl metalbox
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Mario\3D Max\Entorno modular\texturas\bases\plasticbox.jpg
+	map_Kd C:\Mario\3D Max\Entorno modular\texturas\bases\plasticbox.jpg
+
+newmtl oxido_1
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Mario\3D Max\Entorno modular\texturas\bases\oxido.jpg
+	map_Kd C:\Mario\3D Max\Entorno modular\texturas\bases\oxido.jpg
+
+newmtl cables
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Mario\3D Max\Entorno modular\texturas\bases\cables.jpg
+	map_Kd C:\Mario\3D Max\Entorno modular\texturas\bases\cables.jpg
+
+newmtl Remates
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Mario\3D Max\Entorno modular\texturas\bases\remates.jpg
+	map_Kd C:\Mario\3D Max\Entorno modular\texturas\bases\remates.jpg
+
+newmtl rejilla_1
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Mario\3D Max\Entorno modular\texturas\bases\metalfloor1_D.tga
+	map_Kd C:\Mario\3D Max\Entorno modular\texturas\bases\metalfloor1_D.tga
+	map_d C:\Mario\3D Max\Entorno modular\texturas\bases\metalfloor1_D.tga
+
+newmtl oxido_2
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Mario\3D Max\Entorno modular\texturas\bases\oxido2.jpg
+	map_Kd C:\Mario\3D Max\Entorno modular\texturas\bases\oxido2.jpg
+
+newmtl luz
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl rejilla_2
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Mario\3D Max\Entorno modular\texturas\bases\Metalholes.tga
+	map_Kd C:\Mario\3D Max\Entorno modular\texturas\bases\Metalholes.tga
+	map_d C:\Mario\3D Max\Entorno modular\texturas\bases\Metalholes.tga
+
+newmtl concrete
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5000 0.5000 0.5000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0450 0.0450 0.0450
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Mario\3D Max\Entorno modular\texturas\bases\Concrete1_heightmap_M.jpg
+	map_Kd C:\Mario\3D Max\Entorno modular\texturas\bases\Concrete1_heightmap_M.jpg
+
+newmtl concrete_escalera
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Mario\3D Max\Entorno modular\texturas\bases\Concrete1_escaleras.jpg
+	map_Kd C:\Mario\3D Max\Entorno modular\texturas\bases\Concrete1_escaleras.jpg
