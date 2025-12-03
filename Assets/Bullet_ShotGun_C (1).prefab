@@ -130,10 +130,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 8263091056639126871}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7bffb2ca3f4088a4e8b973b137e832eb, type: 3}
+  m_Script: {fileID: 11500000, guid: 2e7e02c815e4dce4495406751c6273bb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Damage: 20
   rb: {fileID: 7595528340893311640}
   speed: 10
   autoDestroyTime: 15
-  hitParticle: {fileID: 4098902514106950024, guid: 78b20e4b3fb6cf44784a3a33630ed8b0, type: 3}
+  hitParticle: {fileID: 0}
