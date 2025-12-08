@@ -1160,10 +1160,14 @@ PrefabInstance:
       value: 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       objectReference: {fileID: 1872063075}
 =======
       objectReference: {fileID: 901240609}
 >>>>>>> 25864546258a75c2d9d45c1c8c2625d050ccbc27
+=======
+      objectReference: {fileID: 1573004486}
+>>>>>>> parent of a7d1534 (Hp_Bar)
 =======
       objectReference: {fileID: 1573004486}
 >>>>>>> parent of a7d1534 (Hp_Bar)
@@ -1212,10 +1216,14 @@ PrefabInstance:
       value: 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       objectReference: {fileID: 498408926}
 =======
       objectReference: {fileID: 123306336}
 >>>>>>> 25864546258a75c2d9d45c1c8c2625d050ccbc27
+=======
+      objectReference: {fileID: 294718040}
+>>>>>>> parent of a7d1534 (Hp_Bar)
 =======
       objectReference: {fileID: 294718040}
 >>>>>>> parent of a7d1534 (Hp_Bar)
@@ -2799,9 +2807,14 @@ Transform:
   m_Father: {fileID: 361306018}
   m_LocalEulerAnglesHint: {x: 0, y: -90, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!21 &123306336
 Material:
   serializedVersion: 8
+=======
+--- !u!43 &112163741
+Mesh:
+>>>>>>> parent of a7d1534 (Hp_Bar)
 =======
 --- !u!43 &112163741
 Mesh:
@@ -2810,6 +2823,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_Name: BulletYellow_Mat(Clone)
   m_Shader: {fileID: 4800000, guid: 2d9a4ca4b2730b64e8aade7030f8caeb, type: 3}
@@ -2887,6 +2901,8 @@ Mesh:
   m_BuildTextureStacks: []
   m_AllowLocking: 1
 =======
+=======
+>>>>>>> parent of a7d1534 (Hp_Bar)
   m_Name: 
   serializedVersion: 11
   m_SubMeshes:
@@ -3046,6 +3062,9 @@ Mesh:
     offset: 0
     size: 0
     path: 
+<<<<<<< HEAD
+>>>>>>> parent of a7d1534 (Hp_Bar)
+=======
 >>>>>>> parent of a7d1534 (Hp_Bar)
 --- !u!1 &129286170
 GameObject:
@@ -6638,8 +6657,14 @@ Transform:
   m_Father: {fileID: 361306018}
   m_LocalEulerAnglesHint: {x: 0, y: -90, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &282252698
 GameObject:
+=======
+--- !u!21 &294718040
+Material:
+  serializedVersion: 8
+>>>>>>> parent of a7d1534 (Hp_Bar)
 =======
 --- !u!21 &294718040
 Material:
@@ -6649,6 +6674,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   serializedVersion: 6
   m_Component:
@@ -6963,6 +6989,8 @@ AudioSource:
     m_PostInfinity: 2
     m_RotationOrder: 4
 =======
+=======
+>>>>>>> parent of a7d1534 (Hp_Bar)
   m_Name: BulletYellow_Mat(Clone)
   m_Shader: {fileID: 4800000, guid: 2d9a4ca4b2730b64e8aade7030f8caeb, type: 3}
   m_Parent: {fileID: 0}
@@ -7038,6 +7066,9 @@ AudioSource:
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
+<<<<<<< HEAD
+>>>>>>> parent of a7d1534 (Hp_Bar)
+=======
 >>>>>>> parent of a7d1534 (Hp_Bar)
 --- !u!1 &297508169
 GameObject:
@@ -10238,10 +10269,14 @@ PrefabInstance:
       value: 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       objectReference: {fileID: 132131750}
 =======
       objectReference: {fileID: 1704563850}
 >>>>>>> 25864546258a75c2d9d45c1c8c2625d050ccbc27
+=======
+      objectReference: {fileID: 112163741}
+>>>>>>> parent of a7d1534 (Hp_Bar)
 =======
       objectReference: {fileID: 112163741}
 >>>>>>> parent of a7d1534 (Hp_Bar)
@@ -10290,10 +10325,14 @@ PrefabInstance:
       value: 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       objectReference: {fileID: 1962764739}
 =======
       objectReference: {fileID: 1113679799}
 >>>>>>> 25864546258a75c2d9d45c1c8c2625d050ccbc27
+=======
+      objectReference: {fileID: 1074479123}
+>>>>>>> parent of a7d1534 (Hp_Bar)
 =======
       objectReference: {fileID: 1074479123}
 >>>>>>> parent of a7d1534 (Hp_Bar)
@@ -12828,8 +12867,11 @@ AudioSource:
     m_PostInfinity: 2
     m_RotationOrder: 4
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 25864546258a75c2d9d45c1c8c2625d050ccbc27
+=======
+>>>>>>> parent of a7d1534 (Hp_Bar)
 =======
 >>>>>>> parent of a7d1534 (Hp_Bar)
 --- !u!1 &530666627
@@ -27241,7 +27283,10 @@ Light:
   m_LuxAtDistance: 1
   m_EnableSpotReflector: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of a7d1534 (Hp_Bar)
 --- !u!21 &1074479123
 Material:
   serializedVersion: 8
@@ -39485,10 +39530,14 @@ PrefabInstance:
       value: 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       objectReference: {fileID: 822068045}
 =======
       objectReference: {fileID: 1239723525}
 >>>>>>> 25864546258a75c2d9d45c1c8c2625d050ccbc27
+=======
+      objectReference: {fileID: 203663552}
+>>>>>>> parent of a7d1534 (Hp_Bar)
 =======
       objectReference: {fileID: 203663552}
 >>>>>>> parent of a7d1534 (Hp_Bar)
@@ -39537,10 +39586,14 @@ PrefabInstance:
       value: 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       objectReference: {fileID: 93418337}
 =======
       objectReference: {fileID: 41776344}
 >>>>>>> 25864546258a75c2d9d45c1c8c2625d050ccbc27
+=======
+      objectReference: {fileID: 368681174}
+>>>>>>> parent of a7d1534 (Hp_Bar)
 =======
       objectReference: {fileID: 368681174}
 >>>>>>> parent of a7d1534 (Hp_Bar)
