@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{4E9954D2-94F1-50F1-BDC0-F0CC4CEFCDE7}</ProjectGuid>
+    <ProjectGuid>{4BB91AC8-6100-B779-8F68-B6CCA797C264}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>AdjustPivot.Editor</AssemblyName>

@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{297C4103-9B09-04FE-F0F3-91AC4631598E}</ProjectGuid>
+    <ProjectGuid>{8E9CDCCC-53CF-0CBE-5FA1-382615C691E2}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -99,7 +99,6 @@
     <Compile Include="Assets\JMO Assets\WarFX\Scripts\WFX_BulletHoleDecal.cs" />
     <Compile Include="Assets\GI479Assets\Week6\Scripts\MutantEnemyController.cs" />
     <Compile Include="Assets\GI479Assets\Week5\NotIncludedToClass\Grenade.cs" />
-    <Compile Include="Assets\GI479Assets\Week7\Scripts\SnapInteractableVisuals.cs" />
     <Compile Include="Assets\JMO Assets\WarFX\Demo\Assets\WFX_Demo_DeleteAfterDelay.cs" />
     <Compile Include="Assets\GI479Assets\Week4\The Developer Train\Sci Fi Guns\Demo\Scripts\GunSpawner.cs" />
     <Compile Include="Assets\JMO Assets\WarFX\Demo\Assets\WFX_Demo_New.cs" />
@@ -1745,7 +1744,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="AdjustPivot.Editor.csproj">
-      <Project>{4E9954D2-94F1-50F1-BDC0-F0CC4CEFCDE7}</Project>
+      <Project>{4BB91AC8-6100-B779-8F68-B6CCA797C264}</Project>
       <Name>AdjustPivot.Editor</Name>
     </ProjectReference>
   </ItemGroup>

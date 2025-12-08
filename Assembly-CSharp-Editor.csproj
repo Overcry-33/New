@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{5C70EA1D-EC5E-8C92-A5CC-D2E30E02A978}</ProjectGuid>
+    <ProjectGuid>{B6B89042-0ED9-074F-4F68-67D8E20198F4}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -1709,11 +1709,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{297C4103-9B09-04FE-F0F3-91AC4631598E}</Project>
+      <Project>{8E9CDCCC-53CF-0CBE-5FA1-382615C691E2}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
     <ProjectReference Include="AdjustPivot.Editor.csproj">
-      <Project>{4E9954D2-94F1-50F1-BDC0-F0CC4CEFCDE7}</Project>
+      <Project>{4BB91AC8-6100-B779-8F68-B6CCA797C264}</Project>
       <Name>AdjustPivot.Editor</Name>
     </ProjectReference>
   </ItemGroup>
